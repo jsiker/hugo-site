@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://jsiker.github.io/"
 languageCode = "en-us"
 title = "JonSiker"
 theme = "hugo-strata-theme"

@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:jsiker/jsiker.github.io.git
+	branch = master
+[submodule "jsiker.github.io"]
+	path = jsiker.github.io
+	url = git@github.com:jsiker/jsiker.github.io.git
+	branch = master
